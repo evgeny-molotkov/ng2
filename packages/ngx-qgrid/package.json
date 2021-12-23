@@ -33,6 +33,7 @@
     "@angular/core": "11.2.0",
     "@angular/forms": "~11.2.0",
     "@qgrid/core": "*",
-    "@qgrid/plugins": "*"
+    "@qgrid/plugins": "*",
+		"rxjs": "^7.4.0"
   }
 }
