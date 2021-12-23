@@ -20,8 +20,6 @@
     "@angular/cli": "13.1.2",
     "@angular/compiler": "12.2.15",
     "@angular/compiler-cli": "12.2.15",
-    "@qgrid/core": "*",
-    "@qgrid/plugins": "*",
     "ng-packagr": "12.2.2",
     "rimraf": "3.0.2",
     "tslint": "6.1.3",
@@ -33,8 +31,6 @@
     "@angular/core": "12.2.15",
     "@angular/forms": "12.2.15",
     "@angular/platform-browser": "12.2.15",
-    "@qgrid/core": "*",
-    "@qgrid/plugins": "*",
     "rxjs": "7.4.0",
     "zone.js": "0.11.4"
   }
