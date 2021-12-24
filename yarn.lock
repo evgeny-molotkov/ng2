@@ -148,7 +148,7 @@
     ora "5.4.1"
     rxjs "6.6.7"
 
-"@angular/animations@~13.1.1":
+"@angular/animations@13.1.1":
   version "13.1.1"
   resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-13.1.1.tgz#13adfd4d8c2fbf36b87b1b6714ed5121267ea092"
   integrity sha512-6ECC9Dn5gmV4U1cz1pRJ2p5lo0BET2CjG1RbhTaZR8lOsoMsmlV/JdBAp8eyYTiGii3MLS6Q2P/hN/YG2SRGQQ==
